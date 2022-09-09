@@ -5,4 +5,5 @@ def test1():
     for q in c:
         if q == 0:
             print([0, 0, 0])
+            print('hello')
 test1()
